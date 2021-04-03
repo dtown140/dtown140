@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, My name is Deontey!
+I am currently studying to become a software developer with the goal of eventually learning machine learning and AI and using those skills to create programs that are really going to help people.
 
 <!--
 **dtown140/dtown140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
